@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/08-Primary Keys.iml" filepath="$PROJECT_DIR$/.idea/08-Primary Keys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - UUID/demo/demo.iml" filepath="$PROJECT_DIR$/03 - UUID/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Natural Key/demo/demo (1).iml" filepath="$PROJECT_DIR$/05 - Natural Key/demo/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - UUID-RFC-4122/demo/demo (2).iml" filepath="$PROJECT_DIR$/04 - UUID-RFC-4122/demo/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Composite Key/demo/demo (3).iml" filepath="$PROJECT_DIR$/06 - Composite Key/demo/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.1 - H2 Workaround/demo/demo (4).iml" filepath="$PROJECT_DIR$/04.1 - H2 Workaround/demo/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Auto Incremented Keys/demo/demo (5).iml" filepath="$PROJECT_DIR$/01-Auto Incremented Keys/demo/demo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Embedded Composite Key/demo/demo (6).iml" filepath="$PROJECT_DIR$/07 - Embedded Composite Key/demo/demo (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Vendor Specific Flyway Migration/demo/demo (7).iml" filepath="$PROJECT_DIR$/02-Vendor Specific Flyway Migration/demo/demo (7).iml" />
+    </modules>
+  </component>
+</project>
